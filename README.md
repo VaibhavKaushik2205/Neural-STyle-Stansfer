@@ -10,4 +10,4 @@ In this algorithm, we define two distances namely the Content Distance(D_c) and 
 We take a third image ie the input and we transform it in order to both minimize its D_c with Content Image and D_s with Style Image.
 
 ## Images
-| <img src="/images/football.jpg" width="300" height="300"> | <img src="/images/Football_Scream.jpg" width="300" height="300"> | <img src="/images/The Scream.jpg" width="300" height="300">
+| <img src="/images/football.jpg" width="320" height="300"> | <img src="/images/Football_Scream.jpg" width="320" height="300"> | <img src="/images/The Scream.jpg" width="320" height="300">
