@@ -14,4 +14,4 @@ We take a third image ie the input and we transform it in order to both minimize
 
 | <img src="/images/pyramids.jpeg" width="320" height="300"> |  <img src="/images/La Reve.jpg" width="320" height="300"> | <img src="/images/pyramids_La_Reve.jpg" width="320" height="300">
 
-| <img src="/images/scene.jpg" width="320" height="300"> |  <img src="/images/Udinie" width="320" height="300"> | <img src="/images/scene_Udnie.jpg" width="320" height="300">
+| <img src="/images/scene.jpg" width="320" height="300"> |  <img src="/images/Udnie" width="320" height="300"> | <img src="/images/scene_Udnie.jpg" width="320" height="300">
