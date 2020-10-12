@@ -9,9 +9,9 @@ In this algorithm, we define two distances namely the Content Distance(D_c) and 
 **Style Distance**: It indicates how different are the output image or feature map and the style image.
 We take a third image ie the input and we transform it in order to both minimize its D_c with Content Image and D_s with Style Image.
 
-## Images
-| <img src="/images/football.jpg" width="320" height="300"> |  <img src="/images/The Scream.jpg" width="320" height="300"> | <img src="/images/Football_Scream.jpg" width="320" height="300">
+## Examples
+| <img src="/images/football.jpg" width="320" height="300"> | <img src="/images/The Scream.jpg" width="320" height="300"> | <img src="/images/Football_Scream.jpg" width="320" height="300">
 
-| <img src="/images/pyramids.jpeg" width="320" height="300"> |  <img src="/images/La Reve.jpg" width="320" height="300"> | <img src="/images/pyramids_La_Reve.jpg" width="320" height="300">
+| <img src="/images/pyramids.jpeg" width="320" height="300"> | <img src="/images/La Reve.jpg" width="320" height="300"> | <img src="/images/pyramids_La_Reve.jpg" width="320" height="300">
 
-| <img src="/images/scene.jpg" width="320" height="300"> |  <img src="/images/Udnie.jpg" width="320" height="300"> | <img src="/images/scene_Udnie.jpg" width="320" height="300">
+| <img src="/images/scene.jpg" width="320" height="300">  <img src="/images/Udnie.jpg" width="320" height="300"> | <img src="/images/scene_Udnie.jpg" width="320" height="300">
