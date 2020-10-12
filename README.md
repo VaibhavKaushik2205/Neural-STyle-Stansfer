@@ -1,4 +1,4 @@
-This is a tensorflow implementation of the paper A Neural Algorithm of Artistic Style by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge.
+This is a tensorflow implementation of the paper: [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf) by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge.
 
 The paper presents an algorithm for combining the content of one image with the style of another image using convolutional neural networks. 
 
