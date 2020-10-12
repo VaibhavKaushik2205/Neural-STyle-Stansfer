@@ -14,6 +14,4 @@ We take a third image ie the input and we transform it in order to both minimize
 ![The_Scream](/images/The Scream.jpg)
 
 
-| col 1      | col 2      |
-|------------|-------------|
-| <img src="/images/football.jpg" width="250"> | <img src="/images/Football_Scream.jpg)" width="250"> |
+| <img src="/images/football.jpg" width="250"> | <img src="/images/Football_Scream.jpg" width="250"> |
