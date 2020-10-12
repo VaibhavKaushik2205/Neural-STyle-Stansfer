@@ -10,6 +10,10 @@ In this algorithm, we define two distances namely the Content Distance(D_c) and 
 We take a third image ie the input and we transform it in order to both minimize its D_c with Content Image and D_s with Style Image.
 
 ## Images
-![Footballer](/images/football.jpg) ![Footballer-The_Scream](/images/Football_Scream.jpg) ![The_Scream](/images/The Scream.jpg)
+![Footballer](/images/football.jpg) ![Footballer-The_Scream](/images/Football_Scream.jpg).
+![The_Scream](/images/The Scream.jpg)
 
 
+| col 1      | col 2      |
+|------------|-------------|
+| <img src="/images/football.jpg" width="250"> | <img src="/images/Football_Scream.jpg)" width="250"> |
